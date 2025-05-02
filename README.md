@@ -1,15 +1,20 @@
 # 💫 About Me:
 🔧 I’m currently working on mastering Core Java concepts and building a strong foundation in backend development.<br><br>🌐 I’m looking to collaborate on frontend web development projects using React, JavaScript, HTML, and CSS to sharpen my UI/UX skills.<br><br>💡 I’m looking for help with building interactive, responsive frontend designs and integrating them with backend services.<br><br>📚 I’m currently learning full-stack development, focusing on connecting frontend interfaces with robust Java-based backends.<br><br>💬 Ask me about C++, Java, DBMS, React, JavaScript, HTML, and CSS – I'm always happy to share what I know and learn together!<br><br>⚡ Fun fact: I love turning complex problems into clean, working solutions — whether it’s cracking a tough DSA challenge or debugging a stubborn UI bug.<br><br>
 
-### 🌐 Portfolio:
+### 🌐 My Portfolio
 
-[🔗 Visit My Portfolio](https://apdev.netlify.app/)  
-A personal portfolio showcasing my projects, skills, and experience. It includes:
+🎨 [**Click here to visit my Portfolio**](https://apdev.netlify.app/)  
+*A curated showcase of my work, technical skills, and personal brand.*
 
-- 💼 Featured Projects with descriptions and links  
-- 🛠️ Tech Stack used in real-world applications  
-- 📬 Contact section for collaborations or freelance opportunities  
-- 🎯 Clean UI, responsive design, and performance-focused layout  
+#### 🔍 What You’ll Find:
+- 💼 **Highlighted Projects** – Real-world applications with live demos and source code links  
+- 🛠️ **Tech Stack** – Tools and technologies I’ve used across different domains  
+- 📈 **Experience & Skills** – Areas of expertise and technologies I work with  
+- 📬 **Contact Me** – For collaboration, freelance work, or just to connect  
+- 🌐 **Responsive & Fast** – Built with performance in mind, optimized for all devices  
+
+> Crafted with passion, precision, and a focus on user experience.
+
 
 
 ## 🌐 Socials:
@@ -17,9 +22,10 @@ A personal portfolio showcasing my projects, skills, and experience. It includes
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anant.abes459@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Anant680/) 
 [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF5722?style=flat-square&logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/Anantps)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abes459)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/AIMLA_21b1531017)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anantabes459)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abes459) 
+[![Naukri](https://img.shields.io/badge/Naukri.com-0080FF?style=flat-square&logo=apachespark&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)  
 
 
 # 💻 Tech Stack:
