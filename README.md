@@ -31,7 +31,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/AIMLA_21b1531017)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anantabes459)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abes459) 
-[![Naukri](https://img.shields.io/badge/Naukri.com-0080FF?style=flat-square&logo=apachespark&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)  
+[![Naukri](https://img.shields.io/badge/Naukri.com-0080FF?style=flat-square&logo=apachespark&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anantabu62v/)
+
 
 
 # 💻 Tech Stack:
