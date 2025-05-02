@@ -1,11 +1,15 @@
 ![Header](./github-header-image.png)
 
 # 💫 About Me:
-🔧 I’m currently working on mastering Core Java concepts and building a strong foundation in backend development.<br><br>🌐 I’m looking to collaborate on frontend web development projects using React, JavaScript, HTML, and CSS to sharpen my UI/UX skills.<br><br>💡 I’m looking for help with building interactive, responsive frontend designs and integrating them with backend services.<br><br>📚 I’m currently learning full-stack development, focusing on connecting frontend interfaces with robust Java-based backends.<br><br>💬 Ask me about C++, Java, DBMS, React, JavaScript, HTML, and CSS – I'm always happy to share what I know and learn together!<br><br>⚡ Fun fact: I love turning complex problems into clean, working solutions — whether it’s cracking a tough DSA challenge or debugging a stubborn UI bug.<br><br>
+🔧 Currently mastering **Core Java** and backend development  
+🌐 Open to collaborating on **React** and frontend projects  
+💡 Learning **full-stack development** and backend integration  
+💬 Ask me about **C++**, **Java**, **DBMS**, **React**, or **JavaScript**  
+⚡ Fun fact: I enjoy solving tricky **DSA problems** and debugging **UI bugs**!
 
-### 🌐 My Portfolio
+### 🌐 My Portfolio:
 
-🎨 [**Click here to visit my Portfolio**](https://apdev.netlify.app/)  
+ 🎨 [**Click here to visit my Portfolio**](https://apdev.netlify.app/)  
 *A curated showcase of my work, technical skills, and personal brand.*
 
 #### 🔍 What You’ll Find:
